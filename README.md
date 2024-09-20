@@ -13,6 +13,7 @@ You can find the code for this project [here].
 - **Python**: Programming language used for the project
 - **Pandas**: Data manipulation and analysis
 - **Scikit-learn**: Machine learning library for Python.
+- **Jupyter Notebook**
 
 # File Overview:
 `predictions.ipynb` - a Jupyter notebook that makes predictions about football match outcomes using a machine learning model.
