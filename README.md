@@ -10,11 +10,11 @@ In this project, we predict the winning of football matches in the English Premi
 You can find the code for this project [here].
 
 # File Overview:
-'predictions.ipynb' - a Jupyter notebook that makes predictions about football match outcomes using a machine learning model.
+`predictions.ipynb` - a Jupyter notebook that makes predictions about football match outcomes using a machine learning model.
 
 # Local Setup:
 No installation is required as the project was developed and executed in Google Colab.
 
 # Special Thanks
-Special thanks to Vik Paruchuri for providing insights that helped in completing this project.
+Special thanks to @VikParuchuri for providing insights that helped in completing this project.
 
