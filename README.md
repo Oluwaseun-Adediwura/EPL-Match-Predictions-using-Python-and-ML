@@ -9,6 +9,11 @@ In this project, we predict the winning of football matches in the English Premi
 # Code
 You can find the code for this project [here].
 
+# Tech Stack
+- **Python**: Programming language used for the project
+- **Pandas**: Data manipulation and analysis
+- **Scikit-learn**: Machine learning library for Python.
+
 # File Overview:
 `predictions.ipynb` - a Jupyter notebook that makes predictions about football match outcomes using a machine learning model.
 local Setup:
