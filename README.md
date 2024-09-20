@@ -19,6 +19,3 @@ You can find the code for this project [here].
 local Setup:
 No installation is required as the project was developed and executed in Google Colab.
 
-# Special Thanks
-Special thanks to @VikParuchuri for providing insights that helped in completing this project.
-
