@@ -11,8 +11,7 @@ You can find the code for this project [here].
 
 # File Overview:
 `predictions.ipynb` - a Jupyter notebook that makes predictions about football match outcomes using a machine learning model.
-
-# Local Setup:
+local Setup:
 No installation is required as the project was developed and executed in Google Colab.
 
 # Special Thanks
